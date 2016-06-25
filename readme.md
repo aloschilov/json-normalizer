@@ -20,7 +20,7 @@ It is possible to write down JSON fields in dot interpolated notation:
         } ]
       }
       
-We usually expect the JSON snipped above in the following format:
+We usually expect the JSON object above in the following format:
 
     {
       "section2" : {
